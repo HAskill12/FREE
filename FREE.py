@@ -29,12 +29,12 @@ try:
 except:
     os.system('pip2 install lolcat')
 logo = """'\x1b[1;92m'
-           ____  ______ ______ _____            
-     /\   |  _ \|  ____|  ____|  __ \     /\    
-    /  \  | |_) | |__  | |__  | |__) |   /  \   
-   / /\ \ |  _ <|  __| |  __| |  _  /   / /\ \  
-  / ____ \| |_) | |____| |____| | \ \  / ____ \ 
- /_/    \_\____/|______|______|_|  \_\/_/    \_\                                                                                          
+  _    _             _____ _    _ _ _ 
+ | |  | |   /\      / ____| |  (_) | |
+ | |__| |  /  \    | (___ | | ___| | |
+ |  __  | / /\ \    \___ \| |/ / | | |
+ | |  | |/ ____ \   ____) |   <| | | |
+ |_|  |_/_/    \_\ |_____/|_|\_\_|_|_                                                                                        
 '\x1b[1;91m'====================================================
 '\x1b[1;92m'   YouTube     :     @haskill1  
 '\x1b[1;93m'   WhatsApp    :     +44 7477210784
@@ -95,7 +95,7 @@ def main_apv():
     print "\x1b[1;95m[6]   Update Tools"
     print "\x1b[1;96m[7]   For Any Help Massage WhatsApp"
     print 50*'~'
-    print "\x1b[1;92m[*] \x1b[1;95m For Need Any Help Type 7 And Massage Me On \x1b[1;92mWhatsApp "
+    print "\x1b[1;92m[*] \x1b[1;95m For Need Any Help WhatsApp +44 7477210784 "
     print 450*'~'
     main_input()
 def main_input():
