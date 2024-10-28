@@ -36,8 +36,8 @@ logo = """'\x1b[1;92m'
   / ____ \| |_) | |____| |____| | \ \  / ____ \ 
  /_/    \_\____/|______|______|_|  \_\/_/    \_\                                                                                          
 '\x1b[1;91m'====================================================
-'\x1b[1;92m'   Github      :     RIAZKHAN(ABEERA)  
-'\x1b[1;93m'   FB ID       :     SACH KAHON FB JA NAME NAHI
+'\x1b[1;92m'   YouTube     :     @haskill1  
+'\x1b[1;93m'   WhatsApp    :     +44 7477210784
 '\x1b[1;94m'   website     :     haskill.online
 '\x1b[1;91m'==================================================== 
 '\x1b[1;92m'_________TOOL BEST HAI SO SAHE SE USE KSR 
