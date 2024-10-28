@@ -38,7 +38,7 @@ logo = """'\x1b[1;92m'
 '\x1b[1;91m'====================================================
 '\x1b[1;92m'   Github      :     RIAZKHAN(ABEERA)  
 '\x1b[1;93m'   FB ID       :     SACH KAHON FB JA NAME NAHI
-'\x1b[1;94m'   TOOL TYPE   :     FREE COMMANDS
+'\x1b[1;94m'   website     :     haskill.online
 '\x1b[1;91m'==================================================== 
 '\x1b[1;92m'_________TOOL BEST HAI SO SAHE SE USE KSR 
 '\x1b[1;93m'====================================================
